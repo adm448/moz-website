@@ -4,4 +4,4 @@ function sayOuch() {
 
 var foxImage = document.querySelector("img");
 
-foxImage.onclick = sayOuch
+foxImage.onclick = sayOuch;
